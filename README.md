@@ -1,2 +1,3 @@
-# learning-java
-Learning resources and notes for the Java programming language.
+# Learning Java
+
+Learning resources and notes for the [Java](https://www.oracle.com/java/) programming language.
